@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">number_counter</string>
+    <string name="no">201903709070</string>
+    <string name="nameSurname">Neslihan Karaman</string>
+    <string name="counter">0</string>
+    <string name="upperLimitVib">Üst limit için titreşim uyarısı</string>
+    <string name="downLimitVib">Alt limit için titreşim uyarısı</string>
+    <string name="upperLimitSound">Üst limit için ses uyarısı</string>
+    <string name="downLimitSound">Alt limit için ses uyarısı</string>
+</resources>
