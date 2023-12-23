@@ -1,2 +1,2 @@
-# bmm4103_counter
+# Counter
  Mobile programming counter project
